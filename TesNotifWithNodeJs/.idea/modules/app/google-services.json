@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204199574105",
+    "firebase_url": "https://tesnotifwithnodejs.firebaseio.com",
+    "project_id": "tesnotifwithnodejs",
+    "storage_bucket": "tesnotifwithnodejs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204199574105:android:7d2c5a3f1b9ecc0c3f8f48",
+        "android_client_info": {
+          "package_name": "com.example.tesnotifwithnodejs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204199574105-p83csmru8h285jpsh7plhnmkm5qng7om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesnotifwithnodejs",
+            "certificate_hash": "188cc347b4a724290d492a19345df2787c78752a"
+          }
+        },
+        {
+          "client_id": "204199574105-a3klv12cq42bn9r1o1gsjf9e7c5nerhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7Ag7ZYAmnE9wU8FqjquiAMhe3t2wrnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204199574105-a3klv12cq42bn9r1o1gsjf9e7c5nerhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
